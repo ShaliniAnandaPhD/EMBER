@@ -23,7 +23,7 @@ EMBER is an innovative and potentially life-saving AI-powered system that utiliz
 - [Usage](#usage) 🚀
 - [Contributing](#contributing) 🤝
 - [License](#license) 📜
-- [Contact](#contact) 📧
+
 
 ## Key Features ✨
 - 🌡️ Intelligent risk assessment and prioritization of evacuation zones based on real-time data and map information
