@@ -73,7 +73,7 @@ def save_preprocessed_data(data_loader, save_path):
     torch.save(data_loader, save_path)
     print(f"Preprocessed data saved at: {save_path}")
 
-# Example usage
+# Example usage 
 if __name__ == '__main__':
     data_path = 'path/to/wildfire/dataset.csv'
     save_path = 'path/to/save/preprocessed/data.pt'
