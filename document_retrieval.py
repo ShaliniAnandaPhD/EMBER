@@ -5,7 +5,7 @@ from elasticsearch import Elasticsearch
 from utils import preprocess_text, load_model, log_retrieval_metrics
 import logging
 
-# Set up logging
+#Set up logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 class DocumentRetriever:
