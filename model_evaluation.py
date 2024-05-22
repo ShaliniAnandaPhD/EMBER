@@ -7,7 +7,7 @@ from evaluation_metrics import perplexity, bleu_score, rouge_score
 from utils import load_model, generate_report, create_heatmap, create_confusion_matrix
 import logging
 
-# Set up logging
+# Set up logging 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 def evaluate_document_retrieval(model, test_loader, device):
