@@ -34,6 +34,30 @@ EMBER is an innovative and potentially life-saving AI-powered system that utiliz
 - 🧠 Integration of reinforcement learning to continuously improve instruction generation based on valuable user feedback
 - 📈 Comprehensive monitoring and evaluation of system performance and generated instructions
 
+Data and Data Formats
+Data Requirements
+
+EMBER requires various types of data to function effectively:
+
+- Evacuation Zones: GIS data outlining evacuation zones.
+- Fire Perimeters: Real-time data on current wildfire perimeters.
+- Traffic Conditions: Live traffic data to optimize evacuation routes.
+- User Inputs: Information such as location, fire name, fire year, and number of people.
+
+Data Formats
+- Evacuation Zones: Shapefile (.shp), GeoJSON (.geojson)
+- Fire Perimeters: GeoJSON (.geojson), KML (.kml)
+- Traffic Conditions: JSON format with live traffic updates
+- User Inputs: JSON or CSV format
+  
+Setting Up Data
+
+- Evacuation Zones: Obtain GIS data files in Shapefile or GeoJSON format that outline the evacuation zones.
+- Fire Perimeters: Acquire real-time wildfire perimeter data in GeoJSON or KML format from reliable sources such as government agencies or fire monitoring services.
+- Traffic Conditions: Integrate live traffic data in JSON format from APIs provided by traffic monitoring services.
+- User Inputs: Collect user input data in JSON or CSV format, ensuring it includes all necessary information for generating personalized evacuation instructions.
+
+
 ## File Structure 📂
 
 ### emberorg.py
