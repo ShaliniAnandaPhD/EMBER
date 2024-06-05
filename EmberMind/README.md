@@ -82,7 +82,6 @@ This project is licensed under the [MIT License](link-to-license-file).
 
 ## Acknowledgments
 - Anthropic's research on "Scaling Monosemanticity" for providing insights into mapping and manipulating neuron activation patterns in large language models
-- Collaborators and partners, including governmental agencies, research institutions, and local communities, for their support and contributions to the project
 
 ## Contact
 For any questions or inquiries, please contact [Shalini Ananda](mailto:shalini.ananda@example.com).
