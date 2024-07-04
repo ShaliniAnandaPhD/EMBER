@@ -1,6 +1,6 @@
 # EMBER - Wildfire Evacuation Recommendation System 🔥🆘
 
-EMBER is an innovative and potentially life-saving AI-powered system that utilizes real-time data, advanced risk assessment techniques, optimized route planning, and cutting-edge natural language generation to deliver personalized evacuation instructions during the critical moments of a wildfire emergency. 🌳🔥🏃‍♂️
+EMBER is a potentially life-saving AI-powered system that utilizes real-time data, advanced risk assessment techniques, optimized route planning, and cutting-edge natural language generation to deliver personalized evacuation instructions during the critical moments of a wildfire emergency. 🌳🔥🏃‍♂️
 
 ## Table of Contents
 - [Key Features](#key-features) ✨
