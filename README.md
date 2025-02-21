@@ -103,7 +103,7 @@ The `RLAgent` class, defined in this file, serves as a reinforcement learning ag
 ## Installation 💻
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/ember.git
+   git clone https://github.com/ember.git
    ```
 
 2. Install the required dependencies:
