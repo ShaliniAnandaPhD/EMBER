@@ -58,7 +58,6 @@ Setting Up Data
 - User Inputs: Collect user input data in JSON or CSV format, ensuring it includes all necessary information for generating personalized evacuation instructions.
 
 
-Here is the rewritten version in a more formal, PhD-level technical style:
 
 ---
 
