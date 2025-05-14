@@ -1,3 +1,19 @@
+# Attribution Notice
+
+This repository documents original work by **Shalini Ananda** for a wildfire detection and resilience project titled **Ember**, developed prior to and during a hackathon hosted at **AGI House, Hillsborough** on **January 18, 2025**.
+
+During the event, the project concept, name, and portions of the GitHub repository were accessed via a shared team submission spreadsheet and subsequently used by another participant or team without consent or attribution. Despite my system breaking during the demo, I was called to present first and delivered the core vision and intent behind Ember in front of the full group.
+
+After the event, I publicly posted the full GitHub repository to the official hackathon Discord for transparency and record. While another team went on to win recognition using material closely resembling this project, **Ember was originated, named, and built by me.**
+
+This repository serves as the canonical source of the original Ember project.
+
+Please respect its creative and technical origins. If you reference or adapt this work, **you must include visible attribution to this repository and author.**
+
+A modified MIT License applies (see `LICENSE` file).
+
+
+
 # EMBER - Wildfire Evacuation Recommendation System 🔥🆘
 
 EMBER is a potentially life-saving AI-powered system that utilizes real-time data, advanced risk assessment techniques, optimized route planning, and cutting-edge natural language generation to deliver personalized evacuation instructions during the critical moments of a wildfire emergency. 🌳🔥🏃‍♂️
