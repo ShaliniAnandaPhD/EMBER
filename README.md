@@ -1,6 +1,6 @@
 # Attribution Notice
 
-This repository documents original work by **Shalini Ananda** for a wildfire detection and resilience project titled **Ember**, developed prior to and during a hackathon hosted at **AGI House, Hillsborough** on **January 18, 2025**.
+This repository documents original work by **Shalini Ananda** for a wildfire detection and resilience project titled **Ember**, developed prior to a hackathon hosted at **AGI House, Hillsborough** on **January 18, 2025**.
 
 During the event, the project concept, name, and portions of the GitHub repository were accessed via a shared team submission spreadsheet and subsequently used by another participant or team without consent or attribution. Despite my system breaking during the demo, I was called to present first and delivered the core vision and intent behind Ember in front of the full group.
 
